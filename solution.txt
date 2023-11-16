@@ -1,0 +1,3 @@
+This web application is being made using REACTJS, CSS, BOOTSTRAP, JAVASCRIPT.
+
+Based on Pending and Completed the table is showing the data perfectly fetched from a dummy json file, user.json
